@@ -32,4 +32,6 @@ features such as budget and runtime using Machine Learning techniques.
 ## Conclusion
 The model successfully predicts movie ratings with acceptable accuracy
 based on the given features.
+## Output Link
+https://colab.research.google.com/drive/1-b9dSW2YZX-jJbkdel8Klwmn6HNALVj2#scrollTo=kZGhKFy5CBxB
 
